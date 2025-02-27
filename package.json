@@ -1,0 +1,24 @@
+{
+  "name": "arenero-web-app",
+  "version": "1.0.0",
+  "description": "Parte web del arenero con react y tailwind para diseño",
+  "homepage": "https://github.com/XxjesusalbertoxX/arenero-web-app#readme",
+  "bugs": {
+    "url": "https://github.com/XxjesusalbertoxX/arenero-web-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XxjesusalbertoxX/arenero-web-app.git"
+  },
+  "license": "UNLICENSED",
+  "author": "Jesus Alberto, Sebastian Rodrigues, Juan y otros 2",
+  "type": "module",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "typescript": "^5.7.3"
+  },
+  "devDependencies": {}
+}
